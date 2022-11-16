@@ -15,7 +15,10 @@ h2{
   color: black;
 }
 div{
-  display: flex;
-  justify-content: space-between;
+  padding-left: 100px;
+}
+div img{
+  height: 400px;
+  flex-wrap: wrap;
   flex-direction: row;
 }
