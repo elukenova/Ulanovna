@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+}
+html{
+  background-color: burlywood;
+}
+h1{
+ font-size: 35px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ color: blue;
+}
+h2{
+  font-size: 35px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+}
+div{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
