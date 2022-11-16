@@ -22,3 +22,7 @@ div img{
   flex-wrap: wrap;
   flex-direction: row;
 }
+p{
+  font-size: 20px;
+  text-align: center;
+}
